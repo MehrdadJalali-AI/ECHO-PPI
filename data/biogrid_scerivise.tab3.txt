@@ -1,0 +1,1 @@
+/Users/mehrdadjalali/Documents/SRH_Research/LEAF-PPI/data/raw/biogrid_scerivise.tab3.txt
