@@ -1,5 +1,13 @@
 # ECHO-PPI: Trustworthy AI for Evidence-Bundled Detection of Overlapping Protein Modules in Protein-Protein Interaction Networks
 
+<div align="center">
+  <img src="ECHO-PPI-Github-v1.jpg" 
+       alt="ECHO-PPI: Trustworthy AI for Overlapping Protein Module Detection" 
+       width="85%" 
+       style="max-width: 1000px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <br><br>
+  <p><strong>ECHO-PPI</strong> — Evidence-Bundled Detection of Overlapping Protein Modules in PPI Networks</p>
+</div>
 ECHO-PPI is a computational biology framework for overlap-aware community detection in protein-protein interaction (PPI) networks. Its main contribution is not a claim of state-of-the-art predictive F1. Instead, ECHO-PPI adds assignment-level auditability: each protein-module assignment can be inspected through topology, semantic, Gene Ontology (GO), confidence-label, and evidence-bundle fields.
 
 Repository: <https://github.com/MehrdadJalali-AI/ECHO-PPI>
